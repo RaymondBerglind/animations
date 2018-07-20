@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}.diagonal-lines-container{background:#2c8bcf;height:100%;width:100%}.diagonal-animated{stroke-dasharray:1900;stroke-dashoffset:-1900;-webkit-animation:dash 1s ease-out forwards;animation:dash 1s ease-out forwards}@-webkit-keyframes dash{to{stroke-dashoffset:0}}@keyframes dash{to{stroke-dashoffset:0}}
+/*# sourceMappingURL=main.71be5498.css.map*/
