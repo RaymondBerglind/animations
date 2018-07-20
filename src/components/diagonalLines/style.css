@@ -1,0 +1,17 @@
+.diagonal-lines-container {
+    background: #2C8BCF;
+    height: 100%;
+    width: 100%;
+}
+
+.diagonal-animated {
+    stroke-dasharray: 1900;
+    stroke-dashoffset: -1900;
+    animation: dash 1s ease-out forwards;
+}
+
+@keyframes dash {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
